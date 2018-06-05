@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.4">
+	<ConfigVersions>
+		<Metadata name="Catalog.Команды" id="1bb32631-ff64-4748-a058-60f72f765497" configVersion="07feb6cb5182b54082436f813ce087b800000000"/>
+		<Metadata name="Catalog.Команды.Form.ФормаЭлемента" id="8266ebe7-7db4-4590-be3c-3c2f47379671" configVersion="489155d01609f740b3c72d6855fecbb100000000"/>
+		<Metadata name="Catalog.Команды.Form.ФормаЭлемента.Form" id="8266ebe7-7db4-4590-be3c-3c2f47379671.0" configVersion="674f5c668a641044a713fe3051d8003d00000000"/>
+		<Metadata name="Catalog.Команды.ManagerModule" id="1bb32631-ff64-4748-a058-60f72f765497.3" configVersion="610592479af2ef479ddf4a1a24e2576800000000"/>
+		<Metadata name="Catalog.Команды.ObjectModule" id="1bb32631-ff64-4748-a058-60f72f765497.0" configVersion="6f54919b38eaf14b8a8629d562e8cf4a00000000"/>
+		<Metadata name="CommonPicture.Пес" id="73a648f5-d7c8-4596-b776-1141bf32bed5" configVersion="1d377e8ce93ed54497689122f4f07ae700000000"/>
+		<Metadata name="CommonPicture.Пес.Picture" id="73a648f5-d7c8-4596-b776-1141bf32bed5.0" configVersion="8bd074cde7e91b4398ac9679ec5482c600000000"/>
+		<Metadata name="Configuration.МояТестоваяКонфигурация" id="b8ae9c42-86e4-45fe-8789-3974550cc52f" configVersion="a12a61152bbe2f4588e141286e0a581900000000"/>
+		<Metadata name="Configuration.МояТестоваяКонфигурация.ClientApplicationInterface" id="3d4c670e-2a84-4964-a4b8-6cff0c0bd601.b" configVersion="28d206cc2c985e47adc19dd84042277b00000000"/>
+		<Metadata name="Configuration.МояТестоваяКонфигурация.CommandInterface" id="3d4c670e-2a84-4964-a4b8-6cff0c0bd601.a" configVersion="ee0b93513c014849bc13e72b80af718200000000"/>
+		<Metadata name="Configuration.МояТестоваяКонфигурация.HomePageWorkArea" id="3d4c670e-2a84-4964-a4b8-6cff0c0bd601.8" configVersion="095303bce6bafd46906dd7a1b12a94ca00000000"/>
+		<Metadata name="Configuration.МояТестоваяКонфигурация.MainSectionCommandInterface" id="3d4c670e-2a84-4964-a4b8-6cff0c0bd601.9" configVersion="4f8bc6f85e4cb74abf557c8c1fa9191800000000"/>
+		<Metadata name="DataProcessor.Погавкать" id="9a6ce541-e665-46cd-9a6d-c09c6ff38c85" configVersion="1308be41bda3ba448c223044944c7bc300000000"/>
+		<Metadata name="DataProcessor.Погавкать.Form.Форма" id="e1c3ae64-e24c-4c59-b6f8-e520995fa0e5" configVersion="f6d5c460255086449f6a39924e3fa8a000000000"/>
+		<Metadata name="DataProcessor.Погавкать.Form.Форма.Form" id="e1c3ae64-e24c-4c59-b6f8-e520995fa0e5.0" configVersion="47df6a1cef8f85458dfd8128b4a8c55d00000000"/>
+		<Metadata name="Language.Русский" id="79d3c363-cc82-4e75-9907-1cac0b792fa3" configVersion="7f92451934d86b46bea323966f8097f600000000"/>
+		<Metadata name="Subsystem.ХреньПсяческая" id="ec849e41-7d70-48bb-b351-8c03fe014071" configVersion="56d9168fc9e67e44b6b922a089c8512b00000000"/>
+		<Metadata name="Subsystem.ХреньПсяческая.CommandInterface" id="ec849e41-7d70-48bb-b351-8c03fe014071.1" configVersion="14121f98a9eb994c9f1b82f4b173eb4500000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
