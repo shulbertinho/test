@@ -12,6 +12,9 @@ DataProcessors\Погавкать.xml-->DataProcessors\Погавкать.xml
 DataProcessors\Погавкать\Forms\Форма.xml-->DataProcessors\Погавкать\Forms\Форма.xml
 DataProcessors\Погавкать\Forms\Форма\Ext\Form.xml-->DataProcessors\Погавкать\Forms\Форма\Ext\Form.xml
 DataProcessors\Погавкать\Forms\Форма\Ext\Form\Module.bsl-->DataProcessors\Погавкать\Forms\Форма\Ext\Form\Module.bsl
+Documents\ДокументТест.xml-->Documents\ДокументТест.xml
+Documents\ДокументТест\Forms\ФормаДокумента.xml-->Documents\ДокументТест\Forms\ФормаДокумента.xml
+Documents\ДокументТест\Forms\ФормаДокумента\Ext\Form.xml-->Documents\ДокументТест\Forms\ФормаДокумента\Ext\Form.xml
 Ext\ClientApplicationInterface.xml-->Ext\ClientApplicationInterface.xml
 Ext\HomePageWorkArea.xml-->Ext\HomePageWorkArea.xml
 Languages\Русский.xml-->Languages\Русский.xml

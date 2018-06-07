@@ -126,6 +126,7 @@
 			<Subsystem>ХреньПсяческая</Subsystem>
 			<CommonPicture>Пес</CommonPicture>
 			<Catalog>Команды</Catalog>
+			<Document>ДокументТест</Document>
 			<DataProcessor>Погавкать</DataProcessor>
 		</ChildObjects>
 	</Configuration>
